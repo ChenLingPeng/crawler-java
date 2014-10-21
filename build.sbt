@@ -30,5 +30,5 @@ libraryDependencies += "commons-dbutils" % "commons-dbutils" % "1.5"
 
 libraryDependencies += "com.mchange" % "c3p0" % "0.9.2.1"
 
-
+libraryDependencies += "org.slf4j" % "slf4j-log4j12" % "1.7.7"
 
